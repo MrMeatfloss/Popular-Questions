@@ -1,6 +1,6 @@
 # Popular-Questions
 
-## Price
+### Price
 
 # How expensive is it to buy a saxophone including all the necessary materials/equipment?
 
