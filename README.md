@@ -3,7 +3,9 @@
 # Purchasing 
 
 ## How expensive is it to buy a saxophone including all the necessary materials/equipment?
-A: 
+A:  The cheapest saxophone you can get can go down to as cheap as $200 CAD, but it is definetely not recommended due to their poor conditions and lack of sustainibility in the long run. The lowest price you can get for a decent tenor saxophone should be at least $1200 CAD or higher, including all the necessary materials in order to start playing. Keep in mind that alto saxophones will be cheaper than the tenor saxophone and the baritone saxophone will be more expensive.
+
+As for how expensive a saxophone can get, it can go up to $5000 CAD, or even 10k if it's in prestige edition/limited edition, where some of your favourite saxophone players may be using.
 ## How much do expensive and cheap saxophones matter?
 A:
 ## Should I buy a cheap or expensive saxophone?
