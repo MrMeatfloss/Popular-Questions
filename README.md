@@ -1,10 +1,20 @@
 # Popular-Questions
 
+## Price
+
+# How expensive is it to buy a saxophone including all the necessary materials/equipment?
+
 # How much do expensive and cheap saxophones matter?
+
+# Should I buy a cheap or expensive saxophone?
+
+
 
 # What are some of the advantages that the saxophone has over other instruments? What about the disadvantages?
 
 # How hard is it to play the saxophone? Which saxophone is the best for beginners?
+
+## Maintainance and Repairs
 
 # How important is cleaning and maintaining your saxophone? How often should i clean my saxophone?
 
