@@ -8,11 +8,11 @@
 
 ## Should I buy a cheap or expensive saxophone?
 
-# Should I rent a saxophone or buy one?
+## Should I rent a saxophone or buy one?
 
-# Should I buy the saxophone online or in person?
+## Should I buy the saxophone online or in person?
 
-# Which saxophone brand should I get?
+## Which saxophone brand should I get?
 
 
 
@@ -26,8 +26,8 @@
 
 # General
 
-# What kind of music is the saxophone good for? 
+## What kind of music is the saxophone good for? 
 
-# What are some of the advantages that the saxophone has over other instruments? What about the disadvantages?
+## What are some of the advantages that the saxophone has over other instruments? What about the disadvantages?
 
-# How hard is it to play the saxophone? Which saxophone is the best for beginners?
+## How hard is it to play the saxophone? Which saxophone is the best for beginners?
